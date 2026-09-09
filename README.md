@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-4th year University of Southampton student. Coding progress is mostly done elsewhere
+4th year University of Southampton student. Coding progress is mostly done elsewhere.
 
 🔭 &nbsp;I'm currently working on whatever floats my boat.
 
