@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sgsjsw&show_icons=true&title_color=efb00f&icon_color=efb00f&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sgsjsw&show_icons=true&title_color=efb00f&icon_color=efb00f&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true&theme=gruvbox" alt="stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sgsjsw&layout=compact&theme=tokyonight&title_color=efb00f&icon_color=efb00f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
