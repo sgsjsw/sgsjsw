@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=850&height=44&lines=Programming%20in%20progress%20from%20behind%20the%20scenes;Java%2C%20C%2B%2B%2C%20Python%2C%20SQL%20and%20others%20I%20do%20less%20frequently" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=850&height=44&lines=Programming%20in%20progress%20behind%20the%20scenes" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
