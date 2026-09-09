@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 4th year University of Southampton student. Coding progress is mostly done elsewhere.
 
-🔭 &nbsp;I'm currently working on whatever floats my boat.
+🔭 &nbsp;Currently working on whatever floats my boat.
 
 ### 🛠️ Programming langauges
 
