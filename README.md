@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/sgsjsw">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=sgsjsw" alt="sgsjsw" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=efb00f&fontSize=54&height=90&width=420&text=sgsjsw" alt="sgsjsw" />
   </a>
 </p>
 
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sgsjsw&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sgsjsw&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sgsjsw&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=efb00f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sgsjsw&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=efb00f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 💭 Dev Quote
