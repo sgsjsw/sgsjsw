@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-4th year University of Southampton student.
+4th year University of Southampton student. Coding progress is mostly done elsewhere
 
-🔭 &nbsp;I'm currently working on **whatever floats my boat.**
+🔭 &nbsp;I'm currently working on whatever floats my boat.
 
 ### 🛠️ Programming langauges
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ### 🔗 Other links
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jen-sean-wong-966767245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jen-sean-wong-966767245/">Linkedin</a>
 </p>
 
 ### 📊 GitHub Stats
