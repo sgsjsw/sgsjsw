@@ -70,11 +70,11 @@ Here are some ideas to get you started:
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sgsjsw&layout=compact&theme=tokyonight&title_color=efb00f&icon_color=efb00f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 💭 Dev Quote
+### 💭 Random Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/sgsjsw">sgsjsw</a></i></p>
+<p align="center"><i><a href="https://github.com/sgsjsw">sgsjsw</a></i></p>
