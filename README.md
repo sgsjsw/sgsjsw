@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🗂️ Projects
-<ul>
+<ol>
   <li>Swiss Pairing System</li>
   <li>Tetris-themed Block Game</li>
   <li>Distributed File System</li>
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     <li>Web development</li>
     <li>Networking</li>
   </ul>
-</ul>
+</ol>
 
 <!--
 ### 🔗 Other links
