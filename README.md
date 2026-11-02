@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 🗂️ Projects
-<ol>
+<ul>
   <li>Swiss Pairing System</li>
   <li>Tetris-themed Block Game</li>
   <li>Distributed File System</li>
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
       <li>Data maipulation</li>
     </ul>
   </li>
-  <li>o	GUI development and data manipulation for a RDMS</li>
+  <li>GUI development and data manipulation for a RDMS</li>
   <li>Online Quiplash
     <ul>
       <li>Web development</li>
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
     <li>Web development</li>
     <li>Networking</li>
   </ul>
-</ol>
+</ul>
 
 <!--
 ### 🔗 Other links
