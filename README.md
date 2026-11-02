@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   </li>
   <li>Advertisement performance dashboard
     <ul>
-      <li>GUI development></li>
+      <li>GUI development</li>
       <li>Data maipulation</li>
     </ul>
   </li>
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
   </li>
   <li>Air Traffic Control system</li>
     <ul>
-      <li>GUI development and networking></li>
+      <li>GUI development and networking</li>
     </ul>
   <li>Recommender system </li>
     <ul>
