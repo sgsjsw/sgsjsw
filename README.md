@@ -59,9 +59,54 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
 </p>
 
+### 🗂️ Projects
+<ul>
+  <li>Swiss Pairing System</li>
+  <li>Tetris-themed Block Game</li>
+  <li>Distributed File System</li>
+  <li>Domain specific programming language
+    <ul>
+      <li>Querying CSV documents in a SQL manner</li>
+      <li>Design and implementation</li>
+    </ul>  
+  </li>
+  <li>Advertisement performance dashboard
+    <ul>
+      <li>GUI development></li>
+      <li>Data maipulation</li>
+    </ul>
+  </li>
+  <li>o	GUI development and data manipulation for a RDMS</li>
+  <li>Online Quiplash
+    <ul>
+      <li>Web development</li>
+      <li>Azure Cloud services</li>
+    </ul>
+  </li>
+  <li>Debate discussion platform
+    <ul>
+      <li>Azure Cloud services, translation, moderation and Azure OpenAI</li>
+      <li>Google Gemini integration</li>
+    </ul>
+  </li>
+  <li>Air Traffic Control system</li>
+    <ul>
+      <li>GUI development and networking></li>
+    </ul>
+  <li>Recommender system </li>
+    <ul>
+      <li>Cosine similarity and matrix factorisation versions</li>
+    </ul>
+  <li>QR code vulnerability scanner</li>
+  <li>Distributed Sensor Network for Crowd Sourced Pollution Monitoring</li>
+  <ul>
+    <li>Web development</li>
+    <li>Networking</li>
+  </ul>
+</ul>
+
 <!--
 ### 🔗 Other links
--->
 
 ### 📊 GitHub Stats
 
@@ -69,6 +114,8 @@ Here are some ideas to get you started:
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=sgsjsw&show_icons=true&title_color=efb00f&icon_color=efb00f&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true&theme=gruvbox" alt="stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sgsjsw&layout=compact&theme=tokyonight&title_color=efb00f&icon_color=efb00f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+-->
 
 ### 💭 Random Developer Quote
 
