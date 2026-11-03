@@ -70,6 +70,7 @@ Here are some ideas to get you started:
       <li>Design and implementation</li>
     </ul>  
   </li>
+  <li>Live timings dashboard</li>
   <li>Advertisement performance dashboard
     <ul>
       <li>GUI development</li>
